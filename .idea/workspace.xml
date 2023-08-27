@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="121d1248-9a77-43b1-b7e7-45405f6b2853" name="Changes" comment="separating into methods">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SquareSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Car.java" afterDir="false" />
+    <list default="true" id="121d1248-9a77-43b1-b7e7-45405f6b2853" name="Changes" comment="initial commit exercise">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Point.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,7 +53,7 @@
       <updated>1692274671245</updated>
       <workItem from="1692274672297" duration="5373000" />
       <workItem from="1692507326833" duration="599000" />
-      <workItem from="1692893465274" duration="3119000" />
+      <workItem from="1692893465274" duration="6993000" />
     </task>
     <task id="LOCAL-00001" summary="First Classes">
       <created>1692276937215</created>
@@ -74,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692477199247</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="initial commit exercise">
+      <created>1693141160363</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693141160363</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Classes" />
     <MESSAGE value="separating into methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="separating into methods" />
+    <MESSAGE value="initial commit exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit exercise" />
   </component>
 </project>
