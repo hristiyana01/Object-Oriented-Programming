@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="121d1248-9a77-43b1-b7e7-45405f6b2853" name="Changes" comment="First Classes">
+    <list default="true" id="121d1248-9a77-43b1-b7e7-45405f6b2853" name="Changes" comment="separating into methods">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/SquareSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
@@ -34,7 +38,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/hristiyanashopova/Documents/GitHub/Object-Oriented-Programming/demo",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,7 +56,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692274671245</updated>
-      <workItem from="1692274672297" duration="5144000" />
+      <workItem from="1692274672297" duration="5373000" />
+      <workItem from="1692507326833" duration="599000" />
+      <workItem from="1692893465274" duration="3119000" />
     </task>
     <task id="LOCAL-00001" summary="First Classes">
       <created>1692276937215</created>
@@ -59,7 +67,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692276937215</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="separating into methods">
+      <created>1692477199247</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692477199247</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -67,6 +82,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Classes" />
+    <MESSAGE value="separating into methods" />
+    <option name="LAST_COMMIT_MESSAGE" value="separating into methods" />
   </component>
 </project>

@@ -1,29 +1,36 @@
 package org.example;
 
 public class Car {
-    static int topSpeed = 100;
-    int totalSeats;
-    final int fuelCapacity = 30;
-    static int maxCapacity = 4;
-    String manufacturer;
+    // Private Fields
+    private String carName;
+    private String carModel;
+    private String carCapacity;
 
-    public int printSpeed(int speed) {
-        //System.out.println("The speed is: " + speed);
-        return speed + 5;
-    }
-    public void setTopSpeep(int speed) {
-        topSpeed = speed;
-    }
-    public int getTopSpeed() {
-        return topSpeed;
-    }
-    void refuel() {
-        //int fuel = 4;
-    }
-    void park() {
-        //topSpeed = 0;
-     }
-     void drive() {
+    // Default Constructor
+    public Car() {
 
-     }
+        this.carName = "";
+        this.carModel = "";
+        this.carCapacity = "";
+    }
+
+    // Parameterized Constructor 1
+    public Car(String name, String model) {
+
+        this.carName = name;
+        this.carModel = model;
+    }
+
+    // Parameterized Constructor 2
+    public Car(String name, String model, String capacity) {
+        // Write your code here
+        this(name,model);
+        this.carCapacity = capacity;
+    }
+
+    // Method to return car details
+    public String getDetails() {
+
+        return this.carName + ", " + this.carModel + ", " + this.carCapacity;
+    }
 }
