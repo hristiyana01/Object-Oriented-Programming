@@ -11,19 +11,6 @@ public class Main {
         System.out.println(student.getMarks(2));
         System.out.println(student.calcTotal());
 
-        Calculator cal = new Calculator();
-
-        double x = 10;
-        double y = 20;
-        double z = 5;
-
-        int a = 12;
-        int b = 4;
-
-        System.out.println(cal.product(x, y));
-        System.out.println(cal.product(x, y, z));
-        System.out.println(cal.product(a, b));
-
         Date date = new Date();
         date.printDate();
         Date date1 = new Date(28,8,2023);
@@ -32,5 +19,11 @@ public class Main {
         Point p1 = new Point(5, 5);
         System.out.println(p1.distance());
         System.out.println(p1.distance(2, 1));
+
+        Calculator obj = new Calculator(10, 94);
+        System.out.println(obj.add());
+        System.out.println(obj.subtract());
+        System.out.println(obj.multiply());
+        System.out.println(obj.divide());
     }
 }

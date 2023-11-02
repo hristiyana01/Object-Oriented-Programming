@@ -1,17 +1,22 @@
 package org.example;
 
 public class Calculator {
-    public double product(double x, double y) {
-        return x * y;
+    private int num1;
+    private int num2;
+    public Calculator(int a, int b) {
+        this.num1 = a;
+        this.num2 = b;
     }
-
-    // Overloading the function to handle three arguments
-    public double product(double x, double y, double z) {
-        return x * y * z;
+    public double add() {
+        return this.num2 + this.num1;
     }
-
-    // Overloading the function to handle int
-    public int product(int x, int y){
-        return x * y;
+    public double subtract() {
+        return this.num2 - this.num1;
+    }
+    public double multiply() {
+        return this.num2 * this.num1;
+    }
+    public double divide() {
+        return (double) this.num2 / this.num1;
     }
 }
