@@ -2,8 +2,8 @@ package Encapsulation;
 
 public class User {
 
-    public String userName;
-    public String password;
+    private String userName;
+    private String password;
 
     public User(String userName, String password) {
         this.userName = userName;
