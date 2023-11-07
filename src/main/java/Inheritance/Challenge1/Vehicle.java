@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Challenge1;
 
 public class Vehicle {
     public String speed;

@@ -1,4 +1,4 @@
-package Inheritance;
+package Inheritance.Challenge1;
 
 public class Car extends Vehicle{
     public String name;
