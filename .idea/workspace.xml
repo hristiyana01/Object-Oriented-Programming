@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="121d1248-9a77-43b1-b7e7-45405f6b2853" name="Changes" comment="initial commit problems">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Challenge2/Dell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Challenge2/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Challenge2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Inheritance/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Challenge1/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Challenge1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Inheritance/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Inheritance/Challenge1/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +89,7 @@
       <workItem from="1692274672297" duration="5373000" />
       <workItem from="1692507326833" duration="599000" />
       <workItem from="1692893465274" duration="9280000" />
-      <workItem from="1699335440784" duration="970000" />
+      <workItem from="1699335440784" duration="1104000" />
     </task>
     <task id="LOCAL-00001" summary="First Classes">
       <created>1692276937215</created>
