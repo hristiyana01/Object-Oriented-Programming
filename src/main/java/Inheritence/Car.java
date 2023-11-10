@@ -1,7 +1,7 @@
 package Inheritence;
 
 public class Car {
-    public String getDetails(String carName) {
-
-    }
+//    public String getDetails(String carName) {
+//
+//    }
 }
