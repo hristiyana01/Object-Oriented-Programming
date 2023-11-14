@@ -5,7 +5,6 @@ public class Main {
         Cop c = new Cop();
         c.getGun();
 
-        Car car = new Car();
         Student student = new Student("Jack", 60, 70);
         System.out.println(student.getMarks(1));
         System.out.println(student.getMarks(2));
