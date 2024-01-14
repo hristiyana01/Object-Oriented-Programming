@@ -6,7 +6,7 @@ public class Dell extends Laptop{
     }
     //parametrized constructor
     public Dell(String name) {
-         super(name);
+        super(name);
     }
     public String getDetails() {
         return getName();
